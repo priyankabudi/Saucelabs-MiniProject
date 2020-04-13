@@ -1,0 +1,7 @@
+ChromeDriver=C:\\Users\\priya\\saucelabs\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver=C:\\Users\\priya\\saucelabs\\src\\test\\resources\\binaries\\geckodriver.exe
+
+URL=https://www.saucedemo.com/
+
+Excelpath=C:\\Users\\priya\\saucelabs\\src\\test\\resources\\XLSX\\excelsheet.xlsx
